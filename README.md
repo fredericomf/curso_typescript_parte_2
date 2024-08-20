@@ -1,2 +1,11 @@
-# curso_typescript_parte_2
-Repositório utilizado para o curso Alura - Typescript - Parte 2
+# Repositório para o curso TypeScript parte 2
+
+
+### Como rodar:
+```
+npm install
+```
+
+```
+npm run server
+```
